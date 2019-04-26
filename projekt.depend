@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1483736014 source:/home/kirko/Pobrane/projekt/projekt/main.c
+	<stdio.h>
+	<stdlib.h>
+	"openfile.c"
+	"simulation.c"
+
+1483736001 source:/home/kirko/Pobrane/projekt/projekt/generate.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"variables.h"
+
+1483736001 /home/kirko/Pobrane/projekt/projekt/generate.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"variables.h"
+
+1483735980 /home/kirko/Pobrane/projekt/projekt/openfile.c
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+
+1483735980 source:/home/kirko/Pobrane/projekt/projekt/openfile.c
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+
+1483743260 /home/kirko/Pobrane/projekt/projekt/simulation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"variables.h"
+
+1483735985 source:/home/kirko/Pobrane/projekt/projekt/simulation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"variables.h"
+
+1483735616 /home/kirko/Pobrane/projekt/projekt/variables.c
+	"variables.h"
+
+1483735616 source:/home/kirko/Pobrane/projekt/projekt/variables.c
+	"variables.h"
+
+1483743264 /home/kirko/Pobrane/projekt/projekt/variables.h
+
+1483735602 source:/home/kirko/Pobrane/projekt/projekt/variables.h
+
